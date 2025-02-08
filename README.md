@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, Svelte**
 
-- 📫 How to reach me **adamadam4778@gmail.com**
+- 📫 How to reach me **steve.kyrosevents@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
