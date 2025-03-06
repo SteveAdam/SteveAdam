@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steve Adam</h1>
-<h3 align="center">A junior software developer from Kenya</h3>
+<h3 align="center">I am a junior software developer from Kenya and i am passionate about programming, art and science.</h3>
+<h4>Passionate about building efficient and user-friendly applications. I specialize in: <br> <ul><li>**Web Development**: Crafting responsive and dynamic websites using HTML, CSS, JavaScript, and frameworks like React and Angular.</li> <li>**Python Development**: Developing robust backend services and automation scripts with Python, utilizing frameworks like Flask and Django.</li><li>**Quality Assurance**: Ensuring software quality through rigorous testing methodologies, including manual and automated testing.</ul></li></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steveadam&label=Profile%20views&color=0e75b6&style=flat" alt="steveadam" /> </p>
 
@@ -9,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/steve-adam-595b75307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="adam_is_steve" height="30" width="40" /></a>
-<a href="steve.kyrosevents@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="@AdamisSteve" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/steve-adam-595b75307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steve adam" height="30" width="40" /></a>
+<a href="https://dribbble.com/HuecoMundo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hueco mundo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
