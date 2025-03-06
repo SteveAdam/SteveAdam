@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/adam_is_steve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adam_is_steve" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/@wshisface](https://www.youtube.com/channel/UCf6mz5ThRTzy-34Vv2T4gAQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wshisface" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/steve-adam-595b75307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="adam_is_steve" height="30" width="40" /></a>
+<a href="steve.kyrosevents@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="@AdamisSteve" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
