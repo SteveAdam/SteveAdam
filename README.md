@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Laravel, Svelte**
 
 - 📫 How to reach me **steve.kyrosevents@gmail.com**
+  
+- ⚡ Fun fact **I'm an absolute cinephile, i enjoy film and cinema.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
