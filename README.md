@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Adam</h1>
-<h3 align="center">I am a junior software developer from Kenya and i am passionate about programming, art and science.</h3>
+<h3 align="center">I am a Software developer from Kenya and i am passionate about programming, art and science.</h3>
 <h4>Passionate about building efficient and user-friendly applications. I specialize in: <br> <ul><li>**Web Development**: Crafting responsive and dynamic websites using HTML, CSS, JavaScript, and frameworks like React and Angular.</li> <li>**Python Development**: Developing robust backend services and automation scripts with Python, utilizing frameworks like Flask and Django.</li><li>**Quality Assurance**: Ensuring software quality through rigorous testing methodologies, including manual and automated testing.</ul></li></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steveadam&label=Profile%20views&color=0e75b6&style=flat" alt="steveadam" /> </p>
